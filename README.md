@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+**AI architect** 
+
+I'm currently working on several projects to **practice** and **have fun** with AI.   
+*These projects are designed to do what they're supposed to do.*
+
+💬 => If you have any questions, 
+feel free to contact me by [email](mailto:terorra.ia.data@gmail.com) or on [LinkedIn](http://www.linkedin.com/in/albert-romano-ter0rra). 
+
+✨ _Happy exploring and have fun!_ ✨
+
 <!--
 **Ter0rra/Ter0rra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
